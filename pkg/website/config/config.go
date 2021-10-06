@@ -1,8 +1,8 @@
 package config
 
 import (
-	"website.friendsonly.me/pkg/fo_errors"
-	"website.friendsonly.me/pkg/tools/helpers"
+	"/pkg/fo_errors"
+	"/pkg/tools/helpers"
 )
 
 type Config struct {
