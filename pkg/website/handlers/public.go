@@ -4,7 +4,7 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/sirupsen/logrus"
 
-	"website.friendsonly.me/pkg/repository"
+	
 )
 
 type PublicHandler struct {
